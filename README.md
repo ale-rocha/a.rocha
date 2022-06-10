@@ -13,4 +13,6 @@ Currently I'm working on computational geometry and machine learning for diverse
 
 :crystal_ball: TensorFlow, PyTorch
   
-</p>
+Currently working on repo:
+
+:brain: Causal-Manifold
