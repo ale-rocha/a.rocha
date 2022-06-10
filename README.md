@@ -9,3 +9,4 @@ Currently I'm working on computational geometry and machine learning for diverse
 
 :kite:
 
+:crystal_ball:
