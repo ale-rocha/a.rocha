@@ -4,9 +4,10 @@
 
 <p align="center">
 I'm Alex, student of computer science (master) at National Institute of Astrophisics Optics and Eletronics (México).
-
+</p>
+<p align="center">
 Currently I'm working on computational geometry and machine learning for diverse applications.
-
+</p>
 :kite:
 
 :crystal_ball:
