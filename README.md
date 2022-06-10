@@ -6,6 +6,7 @@
 I'm Alex, student of computer science (master) at National Institute of Astrophisics Optics and Eletronics (México).
 Currently I'm working on computational geometry and machine learning for diverse applications.
 </p>
+
 :kite: Python, C, C++, MatLab, R, Java, Go
 
 :grapes: JavaScript, NodeJS
