@@ -15,4 +15,4 @@ Currently I'm working on computational geometry and machine learning for diverse
   
 Currently working on repo:
 
-:brain: Causal-Manifold
+:brain: Causal-Manifold & resting-state-simulator
